@@ -4,5 +4,5 @@ As you can see, it's just a concise page of introduction. I will add more inform
 
 ### About Ziggy Kor (Sirius Archer)
 
-I'm not a student majoring in Computer Science but Electronic Engineering but quite interested in computer programming.
+I'm an undergraduate student majoring in not Computer Science but Electronic Engineering but quite interested in computer programming.
 For more information or communications, please contact me at [my GitHub Homepage](https://github.com/ZiggyKor).
